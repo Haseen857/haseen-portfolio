@@ -19,7 +19,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
+              I am <b className="purple">Muhammad Haseen ahmad</b> . i am from
+              roorkee (Uttarakhand). i am working as{" "}
+              <b className="purple">Frontend Developer</b> in{" "}
+              <b className="purple"> Sofyrus Technologies </b>Aligarh (Uttar
+              Pradesh). i am pursuing Bsc in computer science. My Skill Set :
+              <b className="purple"> HTML5, CSS3, JavaScript, React js.</b> I'm
+              also learning Back-End Development and looking forward to be a
+              <b className="purpleA">Full Stack Web Developer</b> .
+              {/* I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
@@ -50,6 +58,7 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
+            </p> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
